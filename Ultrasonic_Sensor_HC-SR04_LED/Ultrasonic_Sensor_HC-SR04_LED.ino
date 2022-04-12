@@ -18,7 +18,7 @@ void setup() {
 void loop() {
   digitalWrite(led_pin, LOW);
 
-  if(distance >= 10) {
+  if(distance <= 50) {
     digitalWrite(led_pin, HIGH);
   }
 
