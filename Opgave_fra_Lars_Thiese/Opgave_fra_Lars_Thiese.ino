@@ -8,7 +8,7 @@
 
 // Width and Height in pixels.
 #define SCREEN_WIDTH 128
-#define SCREEN_HEIGHT 32
+#define SCREEN_HEIGHT 64
 
 #define echoPin 2
 #define trigPin 3
